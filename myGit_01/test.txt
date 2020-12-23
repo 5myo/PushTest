@@ -1,3 +1,4 @@
 1. 내 깃 서버에 푸쉬하기
 2. deverp 브러치 생성
 3. testerp 브런치 생성
+4. release 브런치 생성
